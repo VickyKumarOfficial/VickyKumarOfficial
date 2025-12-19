@@ -33,7 +33,7 @@ I am a B.Tech Computer Science student at Koneru Lakshmaiah University who sits 
 
 ### 🌟 Featured Projects
 
-**[Drivacy](https://github.com/VickyKumarOfficial/Drivacy)**: A Fintech cab booking system winning 1st place at PixelPalettes 2025. Features real-time tracking and encrypted payment flows[cite: 33, 36, 38].
+**[Drivacy](https://github.com/VickyKumarOfficial/Drivacy)**: A Fintech cab booking system winning 1st place at PixelPalettes 2025. Features real-time tracking and encrypted payment flows.
 **[AI For Kids Content Platform](https://aiforkids.in/)**: A WordPress-based platform optimized for SEO and high SERP ranking, complementing a YouTube strategy with millions of views.
 
 ---
